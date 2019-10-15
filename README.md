@@ -5,5 +5,5 @@ I want to create a first person shooter. I plan on using the latest version of t
 <a href="https://docs.unrealengine.com/en-US/index.html">Unreal Engine</a>.
 </p>
 
-<p align="center"> I am looking for programmers, artists, writers, music artists and audio producers, and designers. This project will be completely open-source and possibly have a multiplayer feature.</p>
+<p align="center"> I am looking for programmers, artists, writers, music artists and audio producers, and designers. This project will be completely open-source and possibly have a multiplayer feature. The project will begin sometime in late February or early March, at the latest.</p>
 <p align="center"> Let's make a game!</p>
